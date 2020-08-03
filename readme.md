@@ -14,6 +14,8 @@ Follow me on     <a target="_blank" href="https://www.facebook.com/skilldisk"><i
 ![Webinar on AUTOMATE BORING STUFF USING PYTHON](static/banner.png)
 
 ### Course TimeTable
+
+<div>
     <table style="text-align: center;">
             <tr style="background-color: #2a2a2a;color: white;">
                 <th>Date</th>
@@ -81,7 +83,7 @@ Follow me on     <a target="_blank" href="https://www.facebook.com/skilldisk"><i
                 <td>05:30 pm to 07:30 pm</td>
             </tr>
     </table>
-    
+</div>
     
 ##### Live and Interactive Session.
 #### Topics Covered
