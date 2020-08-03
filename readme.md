@@ -88,36 +88,36 @@ Follow me on     <a target="_blank" href="https://www.facebook.com/skilldisk"><i
 ##### Live and Interactive Session.
 #### Topics Covered
 1. Introduction to Python and programming. 
-		1. History thrust areas of python. 
-		2. Industries using Python. 
-		3. Difference between "proprietary" or "closed source" software and "Open source" software. 
-2. Installing Python 3.x, VS Code Editor. 
+	* History thrust areas of python. 
+	* Industries using Python. 
+	* Difference between "proprietary" or "closed source" software and "Open source" software. 
+2. [Installing latest version of Python 3.x, VS Code Editor.](installationSteps/installation.md) 
 3. Variables, Operators and Data types. 
-		1. Identifiers, keywords and variables 
-		2. Operators, Data types. 
-		3. Comments.
-		4. str.format() Method and f-strings. 
-		5. Doc Strings.
-		6. Type conversions. 
+   * Identifiers, keywords and variables 
+   * Operators, Data types. 
+   * Comments.
+   * str.format() Method and f-strings. 
+   *  Doc Strings.
+   *  Type conversions. 
 4. List, Tuples, Dictionaries and Sets. 
-		1. Comparison of List, Tuple, Dictionaries and Sets.
+   * Comparison of List, Tuple, Dictionaries and Sets.
 5. Control Flow Statements. 
-		1. The if Decision Control Flow Statement. 
-		2. The if...else Decision Control Flow Statement. 
-		3. The if...elif.... Else Decision Control Flow Statement. 
-		4. While loop and for loop 
+   * The if Decision Control Flow Statement. 
+   * The if...else Decision Control Flow Statement. 
+   * The if...elif.... Else Decision Control Flow Statement. 
+   * While loop and for loop 
 6. Functions (Modules). 
-		1. Built-In Functions 
-		2. Importing modules. 
-		3. return Statement and void Function 
-		4. *args and **kwargs 
+   * Built-In Functions 
+   * Importing modules. 
+   * return Statement and void Function 
+   * *args and **kwargs 
 7. Files, Errors and Exceptions handling. 
-		1. Creating and Reading Txt Data. 
-		2. Creating and Reading CSV Data. 
-		3. Error handling: Try / Except blocks. 
+    * Creating and Reading Txt Data.
+    * Creating and Reading CSV Data. 
+    * Error handling: Try / Except blocks. 
 8. Object-Oriented programming. (Introduction: Depending on Time Availability) 
-		1. Classes, Class Variables. 
-		2. Class methods..
+    * Classes, Class Variables.
+    * Class methods..
 
 
 Stay Home. Stay Safe. Learn Online & Get Certified
