@@ -92,7 +92,7 @@ Follow me on     <a target="_blank" href="https://www.facebook.com/skilldisk"><i
 	* Industries using Python. 
 	* Difference between "proprietary" or "closed source" software and "Open source" software. 
 2. [Installing latest version of Python 3.x, VS Code Editor.](installationSteps/installation.md) 
-3. Variables, Operators and Data types. 
+3. [Variables, Operators and Data types.](DataTypes/notes.md) 
    * Identifiers, keywords and variables 
    * Operators, Data types. 
    * Comments.
