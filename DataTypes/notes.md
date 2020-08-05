@@ -1,14 +1,14 @@
 # Defnition, Data Types and Operators
 
-Follow me on     <a target="_blank" href="https://www.facebook.com/skilldisk"><img style="width: 30px;"
+Follow me on     <a target="_blank" href="https://www.facebook.com/skilldisk"><img style="max-width: 30px;"
             src="https://img.icons8.com/fluent/96/facebook-new.png" alt="facebook"></a>
-    <a target="_blank" href="https://twitter.com/skilldisk"><img style="width: 30px;"
+    <a target="_blank" href="https://twitter.com/skilldisk"><img style="max-width: 30px;"
             src="https://img.icons8.com/fluent/96/twitter.png" alt="Twitter"></a>
-    <a target="_blank" href="https://t.me/skilldisk/"><img style="width: 30px;"
+    <a target="_blank" href="https://t.me/skilldisk/"><img style="max-width: 30px;"
             src="https://img.icons8.com/color/2x/telegram-app.png" alt="Telegram"></a>
-    <a target="_blank" href="https://github.com/skilldisk"><img style="width: 30px;"
+    <a target="_blank" href="https://github.com/skilldisk"><img style="max-width: 30px;"
             src="https://img.icons8.com/fluent/96/github.png" alt="GitHub"></a>
-    <a target="_blank" href="https://www.youtube.com/channel/UC41IWICHdLr7uCeeOCPFnpQ"><img style="width: 30px;"
+    <a target="_blank" href="https://www.youtube.com/channel/UC41IWICHdLr7uCeeOCPFnpQ"><img style="max-width: 30px;"
             src="https://img.icons8.com/office/2x/youtube.png" alt="Youtube"></a>
 
 ----
@@ -233,17 +233,17 @@ Follow me on     <a target="_blank" href="https://www.facebook.com/skilldisk"><i
         >>>
         >>> ''' Multiline comment can 
         ... also be represented by using thriple quotes.
-        ... Usually this type is commenting is used 
+        ... Usually this type of commenting is used 
         ... to represent DOC Strings in Python'''
         >>> 
 ```
 ---
 
 
-Connect with us on <a target="_blank" href="https://t.me/skilldisk/"><img style="width: 30px;" src="https://img.icons8.com/color/2x/telegram-app.png" alt="Telegram"></a>
-<a target="_blank" href="https://www.youtube.com/channel/UC41IWICHdLr7uCeeOCPFnpQ"><img style="width: 30px;" src="https://img.icons8.com/office/2x/youtube.png" alt="Youtube"></a>
-<a target="_blank" href="https://www.facebook.com/skilldisk"><img style="width: 30px;" src="https://img.icons8.com/fluent/96/facebook-new.png" alt="facebook"></a>
-<a target="_blank" href="https://twitter.com/skilldisk"><img style="width: 30px;"
+Connect with us on <a target="_blank" href="https://t.me/skilldisk/"><img style="max-width: 30px;" src="https://img.icons8.com/color/2x/telegram-app.png" alt="Telegram"></a>
+<a target="_blank" href="https://www.youtube.com/channel/UC41IWICHdLr7uCeeOCPFnpQ"><img style="max-width: 30px;" src="https://img.icons8.com/office/2x/youtube.png" alt="Youtube"></a>
+<a target="_blank" href="https://www.facebook.com/skilldisk"><img style="max-width: 30px;" src="https://img.icons8.com/fluent/96/facebook-new.png" alt="facebook"></a>
+<a target="_blank" href="https://twitter.com/skilldisk"><img style="max-width: 30px;"
 src="https://img.icons8.com/fluent/96/twitter.png" alt="Twitter"></a>  
-<a target="_blank" href="https://github.com/skilldisk"><img style="width: 30px;"
+<a target="_blank" href="https://github.com/skilldisk"><img style="max-width: 30px;"
 src="https://img.icons8.com/fluent/96/github.png" alt="GitHub"></a>
