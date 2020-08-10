@@ -119,6 +119,7 @@ Follow me on     <a target="_blank" href="https://www.facebook.com/skilldisk"><i
     * Classes, Class Variables.
     * Class methods..
 
+### [Exercise Questions](snippets/exercise.md)
 
 Stay Home. Stay Safe. Learn Online & Get Certified
 
