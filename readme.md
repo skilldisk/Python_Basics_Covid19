@@ -88,7 +88,7 @@ Follow me on     <a target="_blank" href="https://www.facebook.com/skilldisk"><i
                 <td>05:30 pm to 07:30 pm</td>
             </tr>
             <tr>
-                <td>17-08-2020</td>
+                <td>18-08-2020</td>
                 <td>Tuesday</td>
                 <td>05:30 pm to 07:30 pm</td>
             </tr>
