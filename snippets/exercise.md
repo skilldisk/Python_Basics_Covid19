@@ -25,16 +25,16 @@ std_code_list['11 Delhi', ' 22 Mumbai', ' 33 Kolkata', ' 44 Chennai', ' 40 Hyder
 Dictionary output:
 {'Delhi': 11, 'Mumbai': 22, 'Kolkata': 33, 'Chennai': 44, 'Hyderabad': 40, 'Bangalore': 80, 'Pune': 20, 'Ahmedabad': 79}
 ```
-6. Print even numbers for the range provided by the user.
-7. Print multiplication table from 15 to 20.
-8. Find the Sum of Digits in a Number.
+6. [Print even numbers for the range provided by the user.](../exercises/exercise6.py)
+7. [Print multiplication table from 15 to 20.](../exercises/exercise7.py)
+8. [Find the Sum of Digits in a Number.](../exercises/exercise8.py)
 
         Eg: number = 256
         Solution = 2+5+6 = 13
-9.  Display the Fibonacci Sequences up to nth Term Where n is Provided by the User.
+9.  [Display the Fibonacci Sequences up to nth Term Where n is Provided by the User.](../exercises/exercise9.py)
 
         Hint: In a Fibonacci sequence, the next number is obtained by adding the previous two numbers. The first two numbers of the Fibonacci sequence are 0  and 1.
-10. Check Whether a Number Is Prime or Not.
+10.  [Check Whether a Number Is Prime or Not.](../exercises/exercise10.py)
 ----
 Follow me on     <a target="_blank" href="https://www.facebook.com/skilldisk"><img style="width: 50px;"
             src="https://img.icons8.com/fluent/96/facebook-new.png" alt="facebook"></a>
